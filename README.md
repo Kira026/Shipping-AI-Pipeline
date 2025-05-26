@@ -5,7 +5,6 @@ The Shipping AI Pipeline is an end-to-end machine learning solution designed to 
 - 📦 Predict shipping **costs** based on package and route features.
 - 🚚 Recommend the **best carrier** for a shipment.
 - ⏱️ Predict potential **delivery delays**.
-- 🤖 Intelligent **FAQ Chatbot** using FAISS + Transformers.
 - 🌐 **Streamlit UI** for user-friendly interaction.
 - 
 ## 🛠 Tech Stack
